@@ -1,1 +1,108 @@
 2023-07-19 16:44:51,582 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-19 16:45:42,481 [Worker-8: Updating maven project configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: liferay.bper.istituzionale:liferay-bper-istituzionale:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\pom.xml.
+2023-07-19 16:45:42,792 [Worker-8: Updating maven project configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: liferay.bper.istituzionale:liferay-bper-istituzionale-modules:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\modules\pom.xml.
+2023-07-19 16:45:42,797 [Worker-8: Updating maven project configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: liferay.bper.istituzionale:liferay-bper-istituzionale-themes:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\themes\pom.xml.
+2023-07-19 16:45:42,901 [Worker-8: Updating maven project configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 0 sec
+2023-07-19 16:45:42,902 [Worker-8: Updating maven project configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-19 16:45:42,968 [Worker-8: Updating maven project configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: liferay.bper.istituzionale:liferay-bper-istituzionale-modules:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\modules\pom.xml.
+2023-07-19 16:45:42,974 [Worker-8: Updating maven project configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: liferay.bper.istituzionale:liferay-bper-istituzionale-themes:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\themes\pom.xml.
+2023-07-19 16:45:42,981 [Worker-8: Updating maven project configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: liferay.bper.istituzionale:liferay-bper-istituzionale:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\pom.xml.
+2023-07-19 16:45:43,010 [Worker-8: Updating maven project configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-19 16:45:43,252 [Worker-9: Initializing Liferay bundle] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale
+2023-07-19 16:45:43,253 [Worker-9: Initializing Liferay bundle] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests bundle-support:init
+2023-07-19 16:45:53,631 [Worker-1: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: liferay.bper.istituzionale:liferay-bper-istituzionale-modules:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\modules\pom.xml.
+2023-07-19 16:45:53,635 [Worker-1: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: liferay.bper.istituzionale:liferay-bper-istituzionale-themes:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\themes\pom.xml.
+2023-07-19 16:45:53,638 [Worker-1: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: liferay.bper.istituzionale:liferay-bper-istituzionale:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\pom.xml.
+2023-07-19 16:47:30,392 [Worker-5: Updating maven project configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: bper.istituzionale.theme:bper-istituzionale-theme:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\themes\bper-istituzionale-theme\pom.xml.
+2023-07-19 16:47:33,920 [Worker-5: Updating maven project configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bper-istituzionale-theme/src/main/java
+2023-07-19 16:47:33,920 [Worker-5: Updating maven project configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bper-istituzionale-theme/src/main/resources
+2023-07-19 16:47:33,933 [Worker-5: Updating maven project configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bper-istituzionale-theme/src/test/java
+2023-07-19 16:47:36,651 [Worker-5: Updating maven project configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 0 project(s) in 0 sec
+2023-07-19 16:47:36,653 [Worker-5: Updating maven project configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-19 16:47:37,047 [Worker-5: Updating maven project configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: bper.istituzionale.theme:bper-istituzionale-theme:1.0.0 @ C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\themes\bper-istituzionale-theme\pom.xml.
+2023-07-19 16:47:39,478 [Worker-5: Updating maven project configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bper-istituzionale-theme/src/main/java
+2023-07-19 16:47:39,479 [Worker-5: Updating maven project configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bper-istituzionale-theme/src/main/resources
+2023-07-19 16:47:39,479 [Worker-5: Updating maven project configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bper-istituzionale-theme/src/test/java
+2023-07-19 16:47:41,572 [Worker-5: Updating maven project configuration] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bper-istituzionale-theme
+2023-07-19 16:47:41,585 [Worker-5: Updating maven project configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2023-07-19 16:47:44,198 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-19 16:47:44,200 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-19 16:47:59,185 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:47:59,185 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:47:59,185 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:47:59,185 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:47:59,739 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,740 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,740 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,742 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,744 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,748 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,748 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,755 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,758 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,759 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,761 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,762 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,763 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,764 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,764 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,765 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,766 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,766 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,767 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,768 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,769 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,769 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,770 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,770 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,771 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,773 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,779 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,780 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,781 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,782 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,783 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,783 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,784 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,784 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,786 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,787 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,788 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,788 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,788 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,789 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,790 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:47:59,790 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,729 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:48:01,730 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:48:01,731 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:48:01,731 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:48:01,731 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:48:01,731 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:48:01,731 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:48:01,731 [Worker-3: Building workspace] ERROR c.h.c.p.ParserCSS30TokenManager - Illegal character: <
+2023-07-19 16:48:01,776 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,777 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,777 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,779 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,780 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,780 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,780 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,781 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,782 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,783 [Worker-3: Building workspace] WARN  c.h.c.handler.CSSNodeToDomainObject - Media expression uses unknown feature 'prefers-reduced-motion'
+2023-07-19 16:48:01,817 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-19 16:48:01,817 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sorii\Desktop\progetto\bper-istituzionale-workspace\liferay-bper-istituzionale\themes\bper-istituzionale-theme\src\test\resources
+2023-07-19 16:48:01,818 [Worker-3: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bper-istituzionale-theme
+2023-07-19 16:48:01,819 [Worker-3: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bper-istituzionale-theme
+2023-07-19 16:48:01,847 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-19 16:48:01,858 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1560 resources
+2023-07-19 16:48:04,238 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-19 16:48:05,641 [Bnd-Executor,pool-5-thread-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for glassfish:appserv-ext:jar:9.1 is missing, no dependency information available
+2023-07-19 16:48:09,668 [Bnd-Executor,pool-5-thread-1] WARN  a.b.m.l.resolve.DependencyResolver - Failed to resolve dependency glassfish:appserv-ext:jar:9.1
+2023-07-19 16:48:11,571 [Bnd-Executor,pool-5-thread-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for glassfish:appserv-ext:jar:9.1 is missing, no dependency information available
+2023-07-19 16:48:13,766 [Bnd-Executor,pool-5-thread-1] WARN  a.b.m.l.resolve.DependencyResolver - Failed to resolve dependency glassfish:appserv-ext:jar:9.1
+2023-07-19 16:48:15,535 [Bnd-Executor,pool-5-thread-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for glassfish:appserv-ext:jar:9.1 is missing, no dependency information available
+2023-07-19 16:48:17,707 [Bnd-Executor,pool-5-thread-1] WARN  a.b.m.l.resolve.DependencyResolver - Failed to resolve dependency glassfish:appserv-ext:jar:9.1
+2023-07-19 16:48:19,537 [Bnd-Executor,pool-5-thread-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for glassfish:appserv-ext:jar:9.1 is missing, no dependency information available
+2023-07-19 16:48:21,719 [Bnd-Executor,pool-5-thread-1] WARN  a.b.m.l.resolve.DependencyResolver - Failed to resolve dependency glassfish:appserv-ext:jar:9.1
